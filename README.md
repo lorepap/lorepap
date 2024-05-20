@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 I am a CS PhD candidate at Saint Louis University, USA, under the advisement of Dr. Flavio Esposito. 
 My main research interests are applied ML, reinforcement learning, transfer learning and networked systems.
 
-Read more about me [here](www.lorepap.github.io)!
+Read more about me [here](https://lorepap.github.io)!
