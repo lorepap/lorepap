@@ -27,4 +27,4 @@ I also enjoy working on side projects on NLP, Large Language Models (LLMs), ML f
 
 Read more about me [here](https://lorepap.github.io)!
 
-[<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />](mailto:p.lore96@gmail.com)
+<a href="mailto:p.lore96@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
