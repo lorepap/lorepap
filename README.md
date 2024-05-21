@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-💻 I am a CS PhD candidate at Saint Louis University, USA.
-🎯 My main research interests: 
+💻 I am a CS PhD candidate at Saint Louis University, USA.  
+
+  🎯 My main research interests:
   - Machine Learning/Deep Learning
   - Reinforcement Learning
   - Transfer Learning
@@ -27,4 +28,4 @@ I also enjoy working on side projects on NLP, Large Language Models (LLMs), ML f
 
 Read more about me [here](https://lorepap.github.io)!
 
-<a href="mailto:p.lore96@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsCRhCfJfvpRQrWzqDKLzNwfMNvfBbPjbmFtvCkNwlRNDbsqtntTHnkVrTDlxfmwHzQbd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-pappone)
