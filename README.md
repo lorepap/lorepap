@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-I am a CS PhD candidate at Saint Louis University, USA, under the advisement of Dr. Flavio Esposito. 
-My main research interests are applied ML, reinforcement learning, transfer learning and networked systems.
+💻 I am a CS PhD candidate at Saint Louis University, USA.
+🎯 My main research interests: 
+  - Machine Learning/Deep Learning
+  - Reinforcement Learning
+  - Transfer Learning
+  - Networked Systems
+
+I also enjoy working on side projects on NLP, Large Language Models (LLMs), ML for finance, and much more.
 
 Read more about me [here](https://lorepap.github.io)!
+
+[<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />](mailto:p.lore96@gmail.com)
