@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 
   🎯 My main research interests:
   - Machine Learning/Deep Learning
-  - Reinforcement Learning
-  - Transfer Learning
   - Networked Systems
-
-I also enjoy working on side projects on NLP, Large Language Models (LLMs), ML for finance, and much more.
+  - Reinforcement Learning
+  - LLMs
 
 Read more about me [here](https://lorepap.github.io)!
 
