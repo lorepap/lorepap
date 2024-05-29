@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 💻 I am a CS PhD candidate at Saint Louis University, USA.  
 
   🎯 My main research interests:
-  - Machine Learning/Deep Learning
+  - ML/DL
   - Networked Systems
-  - Reinforcement Learning
-  - LLMs
 
 Read more about me [here](https://lorepap.github.io)!
 
