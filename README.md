@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 💻 I am a CS PhD candidate at Saint Louis University, USA.  
 
   🎯 My main research interests:
-  - ML/DL
+  - ML/AI
   - Networked Systems
 
 Read more about me [here](https://lorepap.github.io)!
